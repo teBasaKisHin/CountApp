@@ -14,6 +14,8 @@
 		BEC15D0B1FAC01A800487F33 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = BEC15D091FAC01A800487F33 /* LaunchScreen.storyboard */; };
 		BEC15D161FAC01A800487F33 /* CountAppTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = BEC15D151FAC01A800487F33 /* CountAppTests.swift */; };
 		BEC15D211FAC01A800487F33 /* CountAppUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = BEC15D201FAC01A800487F33 /* CountAppUITests.swift */; };
+		BEC15D311FAC06C000487F33 /* Background.jpg in Resources */ = {isa = PBXBuildFile; fileRef = BEC15D301FAC06C000487F33 /* Background.jpg */; };
+		BEC15D351FAC0C9800487F33 /* icon.png in Resources */ = {isa = PBXBuildFile; fileRef = BEC15D341FAC0C9800487F33 /* icon.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -47,6 +49,8 @@
 		BEC15D1C1FAC01A800487F33 /* CountAppUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = CountAppUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		BEC15D201FAC01A800487F33 /* CountAppUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CountAppUITests.swift; sourceTree = "<group>"; };
 		BEC15D221FAC01A800487F33 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		BEC15D301FAC06C000487F33 /* Background.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = Background.jpg; sourceTree = "<group>"; };
+		BEC15D341FAC0C9800487F33 /* icon.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = icon.png; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -97,6 +101,8 @@
 		BEC15CFF1FAC01A800487F33 /* CountApp */ = {
 			isa = PBXGroup;
 			children = (
+				BEC15D341FAC0C9800487F33 /* icon.png */,
+				BEC15D301FAC06C000487F33 /* Background.jpg */,
 				BEC15D001FAC01A800487F33 /* AppDelegate.swift */,
 				BEC15D021FAC01A800487F33 /* ViewController.swift */,
 				BEC15D041FAC01A800487F33 /* Main.storyboard */,
@@ -235,6 +241,8 @@
 				BEC15D0B1FAC01A800487F33 /* LaunchScreen.storyboard in Resources */,
 				BEC15D081FAC01A800487F33 /* Assets.xcassets in Resources */,
 				BEC15D061FAC01A800487F33 /* Main.storyboard in Resources */,
+				BEC15D311FAC06C000487F33 /* Background.jpg in Resources */,
+				BEC15D351FAC0C9800487F33 /* icon.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
